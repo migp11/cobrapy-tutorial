@@ -1,7 +1,9 @@
 # cobrapy-tutorial
 A tutorial on cobrapy
 
-1. In linux create virtual environemtn
+# Install instructions for linux
+
+1. Create virtual environemtn
 `virtualenv -p python3 env/`
 
 2. activate the virtual environemtn
@@ -13,6 +15,7 @@ A tutorial on cobrapy
 4. Run jupyter
 `jupyter notebook`
 
-You can run the tutorial notebooks using:
+# Do the tutorial without instalations
+Run the tutorial notebooks using:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/migp11/cobrapy-tutorial/HEAD)
 
