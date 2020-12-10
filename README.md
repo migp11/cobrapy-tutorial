@@ -1,7 +1,7 @@
 # cobrapy-tutorial
 A tutorial on cobrapy
 
-# Install instructions for linux
+## Installation instructions for linux
 
 1. Create virtual environemtn
 `virtualenv -p python3 env/`
@@ -15,7 +15,7 @@ A tutorial on cobrapy
 4. Run jupyter
 `jupyter notebook`
 
-# Do the tutorial without instalations
+## Do the tutorial without instalations
 Run the tutorial notebooks using:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/migp11/cobrapy-tutorial/HEAD)
 
