@@ -17,5 +17,5 @@ A tutorial on cobrapy
 
 ## Do the tutorial without instalations
 Run the tutorial notebooks using:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/migp11/cobrapy-tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/migp11/cobrapy-tutorial/HEAD){:target="_blank"}
 
