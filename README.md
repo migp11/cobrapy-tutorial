@@ -4,15 +4,19 @@ A tutorial on cobrapy
 ## Installation instructions for linux
 
 1. Create virtual environemtn
-`virtualenv -p python3 env/`
+`virtualenv -p python3 venv/`
 
 2. activate the virtual environemtn
-`source env/bin/activate`
+`source venv/bin/activate`
 
 3. Install requirments
-`pip install -r requirments`
+`pip install -r requirments.txt`
 
-4. Run jupyter
+4. Install jupyter kernell
+`pip install ipykernel`
+`python -m ipykernel install --user --name=venv`
+
+5. Run jupyter
 `jupyter notebook`
 
 ## Do the tutorial without instalations
