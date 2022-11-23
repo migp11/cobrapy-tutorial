@@ -1,2 +1,3 @@
 cobra==0.26.0
-jupyter==1.0.0
+markupsafe==2.0.1
+Escher==1.7.3
